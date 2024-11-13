@@ -544,7 +544,6 @@ nick jr.,http://212.102.60.231/NICK_JR/index.m3u8
 NICKELODEON,http://143.244.60.30/NICKELODEON/index.m3u8
 NICKTOONS 动画,http://143.244.60.30/NICKTOONS/index.m3u8
 IPPON TV 日本,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
-Playboy HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 RAINBOW - Black Swan,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgj8m_4gUooMrSsQY.mp4
 Rakuten Family 德语,https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8
@@ -579,7 +578,6 @@ Travel 4K,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761
 TV MAX 音乐,https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
 TV Tokyo 日本,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-VISIT-X,https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 World Poker Tour,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 WU TANG 功夫电影,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=42
