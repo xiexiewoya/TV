@@ -328,7 +328,7 @@ SiTV欢笑剧场 720,http://123.160.200.118:2000/rtp/239.16.10.233:2000
 SiTV动漫秀场,http://123.160.200.118:2000/rtp/239.16.10.234:2000
 SiTV东方财经,http://123.160.200.118:2000/rtp/239.16.10.235:2000
 
-港澳台,#genre#
+直播港澳台,#genre#
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
