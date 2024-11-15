@@ -1,4 +1,4 @@
-河南,#genre#
+直播河南,#genre#
 河南卫视,http://123.160.200.118:2000/rtp/239.16.20.21:10210
 河南都市频道,http://123.160.200.118:2000/rtp/239.16.20.164:11640
 河南民生频道,http://123.160.200.118:2000/rtp/239.16.20.165:11650
@@ -15,7 +15,7 @@
 河南公共频道,http://123.160.200.118:2000/rtp/239.16.10.126:2000
 大美河南,http://123.160.200.118:2000/rtp/239.16.20.17:10170
 
-央视,#genre#
+央视直播,#genre#
 CCTV-1,http://123.160.200.118:2000/rtp/239.16.20.1:10010
 CCTV-2,http://123.160.200.118:2000/rtp/239.16.20.2:10020
 CCTV-3,http://123.160.200.118:2000/rtp/239.16.20.3:10030
@@ -56,7 +56,7 @@ CCTV-17,http://123.160.200.118:2000/rtp/239.16.10.129:2000
 CETV-1,http://123.160.200.118:2000/rtp/239.16.20.78:10780
 CETV-1,http://123.160.200.118:2000/rtp/239.16.10.12:2000
 
-卫视,#genre#
+卫视直播,#genre#
 浙江卫视,http://123.160.200.118:2000/rtp/239.16.20.71:10710
 湖南卫视,http://123.160.200.118:2000/rtp/239.16.20.72:10720
 东方卫视,http://123.160.200.118:2000/rtp/239.16.20.73:10730
@@ -118,7 +118,7 @@ CETV-1,http://123.160.200.118:2000/rtp/239.16.10.12:2000
 西藏卫视,http://123.160.200.118:2000/rtp/239.16.10.106:2000
 青海卫视,http://123.160.200.118:2000/rtp/239.16.10.107:2000
 
-地方,#genre#
+地方频道,#genre#
 郑州1新闻综合,http://123.160.200.118:2000/rtp/239.16.10.154:2000
 郑州2商都频道,http://123.160.200.118:2000/rtp/239.16.10.155:2000
 郑州3文体频道,http://123.160.200.118:2000/rtp/239.16.10.156:2000
@@ -334,7 +334,7 @@ SiTV欢笑剧场 720,http://123.160.200.118:2000/rtp/239.16.10.233:2000
 SiTV动漫秀场,http://123.160.200.118:2000/rtp/239.16.10.234:2000
 SiTV东方财经,http://123.160.200.118:2000/rtp/239.16.10.235:2000
 
-港澳台,#genre#
+港澳台直播,#genre#
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
@@ -393,7 +393,7 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
-国际,#genre#
+国际频道,#genre#
 CNN美国有线电视新闻网,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN美国有线电视新闻网,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 CNN美国有线电视新闻网,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
@@ -595,7 +595,7 @@ Zoomoo 少儿,http://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
-熊猫,#genre#
+熊猫宠宠,#genre#
 都江堰怡然,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
 都江堰妃妃,http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
 都江堰高清,http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
