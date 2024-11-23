@@ -177,10 +177,6 @@ IPTV法治,http://219.156.130.189:8888/rtp/225.1.4.188:1237
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
@@ -201,6 +197,10 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 TVB 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
@@ -410,6 +410,7 @@ rthktv33,https://stream1.freetv.fun/7784f202591797be966bdec85d8d6e73e53bab963688
 rthktv34,https://stream1.freetv.fun/8dc8b380861cc994bb3d9bb64f415d0d313eef5c60b5efbec01551f461837c92.m3u8
 surf now tv,https://stream1.freetv.fun/d05473213eccf4814f220641dbcf25abe94f124106c31eed62c4c51ee611342d.m3u8
 tv gospel movie,https://stream1.freetv.fun/26fcb62d389f00ba73bba6b6a4d2c941ebf563a2a3e0a516223a99a9efda6056.m3u8
+
 国际频道,#genre#
 CNN美国有线电视新闻网,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN美国有线电视新闻网,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
