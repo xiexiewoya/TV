@@ -69,3 +69,10 @@ CCTV17,http://123.7.110.43:9901/tsfile/live/1004_1.m3u8
 卡酷动画,http://123.7.110.43:9901/tsfile/live/1000_1.m3u8
 炫动卡通,http://123.7.110.43:9901/tsfile/live/1001_1.m3u8
 优漫卡通,http://123.7.110.43:9901/tsfile/live/1002_1.m3u8
+
+
+CCTV,#genre#
+
+WEISHI,#genre#
+
+DIFANG,#genre#
